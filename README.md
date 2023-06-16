@@ -1,14 +1,10 @@
 ### Ola 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 Estudando informática para internet na Faetec
 - 🌱 estou aprendendo JS css, html, reactJS, nodeJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Instagram: @rebeca_reis
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
