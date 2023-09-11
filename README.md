@@ -8,8 +8,8 @@
 - 📫 Instagram: @rebeca_reis
 
 <div>
-  <img align="center" height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepsimanEdu&layout=compact&lang_count=16&theme=merko"/><br>
-  <img align="center" height="158em" src="https://github-readme-stats.vercel.app/api?username=Rebeca-reis16_icons=true&theme=merko&count_private=true"/>
+  <img align="center" height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeca-reis16&layout=compact&lang_count=16&theme=merko"/><br>
+  <img align="center" height="158em" src="https://github-readme-stats.vercel.app/api?username=Rebeca-reis16&_icons=true&theme=merko&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
